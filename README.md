@@ -6,7 +6,7 @@
 ## Installation
 Öncelikle projeyi clonelayın.
 ```bash
-git clone https://github.com/ardaozdmr55/kodluyoruzilkrepo.git
+git clone https://github.com/ardaozdemir1/kodluyoruzilkrepo.git
 ```
 
 ## Usage
